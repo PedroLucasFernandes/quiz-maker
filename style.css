@@ -1,0 +1,32 @@
+body{
+    padding: 12px;
+}
+
+section{
+    margin-bottom: 10px;
+}
+
+button{
+    margin-top: 20px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: lightgreen;
+}
+
+#line{
+    border: solid;
+    border-width: 1px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.challenge {
+    border: 1px solid black;
+    padding: 10px;
+    width: 300px;
+    max-height: 100px;
+    overflow: auto;
+    word-wrap: break-word;
+    margin-bottom: 20px;
+}
